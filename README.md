@@ -1,4 +1,4 @@
-python-multiplier
+eight-bit-multiplier
 =================
 
-eight but multiplier
+eight but multiplier in python
